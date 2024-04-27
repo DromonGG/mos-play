@@ -22,7 +22,7 @@ Currently, MOS Auto !play can be installed by loading it as an unpacked extensio
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mos-auto-play.git
+   git clone https://github.com/DromonGG/mos-play.git
 2. Open Chrome and navigate to chrome://extensions/.
 3. Enable Developer Mode at the top right.
 4. Click "Load unpacked" and select the directory where you cloned or extracted the repository.
