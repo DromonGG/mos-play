@@ -1,0 +1,10 @@
+# System-specific files
+.DS_Store        # macOS desktop services store
+Thumbs.db        # Windows thumbnail cache
+Desktop.ini      # Windows folders configuration
+
+# IDE and editor folders/files
+.vscode/
+.idea/
+
+
